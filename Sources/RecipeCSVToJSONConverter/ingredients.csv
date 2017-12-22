@@ -1,53 +1,53 @@
-,measurement,preparation,title
-chineseSweetAndSourSpareRib,1 part,,cooking wine
-chineseSweetAndSourSpareRib,2 parts,,chinese vinegar
-chineseSweetAndSourSpareRib,3 parts,,sugar
-chineseSweetAndSourSpareRib,3 parts,,light soy sauce
-chineseSweetAndSourSpareRib,1 part,,dark soy sauce
-chineseSweetAndSourSpareRib,5 parts,only needed if stew,water
-focacciaBread,1 3/4 cups,warm (110-115°F),water
-focacciaBread,1 package (2 1/4 teaspoons),,instant yeast (or dry active yeast)
-focacciaBread,1/2 cups,"fresh, chopped and divided",rosemary leaves
-focacciaBread,1 tablespoon,,granulated sugar (or honey)
-focacciaBread,5 1/4 cups,plus more for kneading,all-purpose flour
-focacciaBread,1 tablespoon,,kosher salt
-focacciaBread,1 cup,divided,extra-virgin olive oil
-sheppardPie,500g,,ground beef
-sheppardPie,3,,shallot
-sheppardPie,60g,,frozen pea
-sheppardPie,2,,carrot
-sheppardPie,2 sticks,,celery
-sheppardPie,125ml,,red wine
-sheppardPie,2 tbsp,,wucester sauce
-sheppardPie,2 cloves,,garlic
-sheppardPie,2 tbsp,,ketchup
-sheppardPie,1 branch,,rosemary
-sheppardPie,2 tbsp,,flour
-sheppardPie,700g,,potato
-sheppardPie,30g,,butter
-sheppardPie,100ml,,milk
-sheppardPie,100g,,cheddar
-sheppardPie,to taste,,salt & pepper
-mashedPotatoBread,3 1/2 cups,,flour
-mashedPotatoBread,2 tsp,,butter
-mashedPotatoBread,1 tsp,,salt
-mashedPotatoBread,1 tbsp,,sugar
-mashedPotatoBread,2 1/2 tsb,,yeast
-mashedPotatoBread,2/3 cup,,milk
-mashedPotatoBread,1 cup,,mashed potatoes
-mashedPotatoBread,1,,egg
-mashedPotatoBread,to taste,,olive oil
-spiniachAndArtichokeDip,1/4 cup,,sour cream
-spiniachAndArtichokeDip,7 oz,diced,artichoke hearts
-spiniachAndArtichokeDip,5 oz,cooked and cut,spinach
-spiniachAndArtichokeDip,1/2 block,,cream chesse
-spiniachAndArtichokeDip,1/2 cup,,mozzarella
-spiniachAndArtichokeDip,1/8 cup,,parmesan
-spiniachAndArtichokeDip,to taste,,"herbs of choice, pepper and garlic"
-6InchJapaneseCheeseCake,1 stick,,cream chesse
-6InchJapaneseCheeseCake,80ml,,whole milk
-6InchJapaneseCheeseCake,2 tbsp,,butter
-6InchJapaneseCheeseCake,20g,,flour
-6InchJapaneseCheeseCake,10g,,corn starch
-6InchJapaneseCheeseCake,3,,egg
-6InchJapaneseCheeseCake,60g,,sugar
+key,recipe_name,measurement,preparation,title
+chineseSweetAndSourSpareRib,Chinese Sweet and Sour Spare Rib,1 part,,cooking wine
+chineseSweetAndSourSpareRib,,2 parts,,chinese vinegar
+chineseSweetAndSourSpareRib,,3 parts,,sugar
+chineseSweetAndSourSpareRib,,3 parts,,light soy sauce
+chineseSweetAndSourSpareRib,,1 part,,dark soy sauce
+chineseSweetAndSourSpareRib,,5 parts,only needed if stew,water
+focacciaBread,Focaccia Bread,1 3/4 cups,warm (110-115°F),water
+focacciaBread,,1 package (2 1/4 teaspoons),,instant yeast (or dry active yeast)
+focacciaBread,,1/2 cups,"fresh, chopped and divided",rosemary leaves
+focacciaBread,,1 tablespoon,,granulated sugar (or honey)
+focacciaBread,,5 1/4 cups,plus more for kneading,all-purpose flour
+focacciaBread,,1 tablespoon,,kosher salt
+focacciaBread,,1 cup,divided,extra-virgin olive oil
+sheppardPie,,500g,,ground beef
+sheppardPie,,3,,shallot
+sheppardPie,,60g,,frozen pea
+sheppardPie,,2,,carrot
+sheppardPie,,2 sticks,,celery
+sheppardPie,,125ml,,red wine
+sheppardPie,,2 tbsp,,wucester sauce
+sheppardPie,,2 cloves,,garlic
+sheppardPie,,2 tbsp,,ketchup
+sheppardPie,,1 branch,,rosemary
+sheppardPie,,2 tbsp,,flour
+sheppardPie,,700g,,potato
+sheppardPie,,30g,,butter
+sheppardPie,,100ml,,milk
+sheppardPie,,100g,,cheddar
+sheppardPie,,to taste,,salt & pepper
+mashedPotatoBread,Mashed Potato Bread,3 1/2 cups,,flour
+mashedPotatoBread,,2 tsp,,butter
+mashedPotatoBread,,1 tsp,,salt
+mashedPotatoBread,,1 tbsp,,sugar
+mashedPotatoBread,,2 1/2 tsb,,yeast
+mashedPotatoBread,,2/3 cup,,milk
+mashedPotatoBread,,1 cup,,mashed potatoes
+mashedPotatoBread,,1,,egg
+mashedPotatoBread,,to taste,,olive oil
+spiniachAndArtichokeDip,Spinach and Artichoke Dip,1/4 cup,,sour cream
+spiniachAndArtichokeDip,,7 oz,diced,artichoke hearts
+spiniachAndArtichokeDip,,5 oz,cooked and cut,spinach
+spiniachAndArtichokeDip,,1/2 block,,cream chesse
+spiniachAndArtichokeDip,,1/2 cup,,mozzarella
+spiniachAndArtichokeDip,,1/8 cup,,parmesan
+spiniachAndArtichokeDip,,to taste,,"herbs of choice, pepper and garlic"
+6InchJapaneseCheeseCake,6 inch Japanese Chee Cake,1 stick,,cream chesse
+6InchJapaneseCheeseCake,,80ml,,whole milk
+6InchJapaneseCheeseCake,,2 tbsp,,butter
+6InchJapaneseCheeseCake,,20g,,flour
+6InchJapaneseCheeseCake,,10g,,corn starch
+6InchJapaneseCheeseCake,,3,,egg
+6InchJapaneseCheeseCake,,60g,,sugar
